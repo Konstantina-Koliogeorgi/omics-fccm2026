@@ -1,7 +1,7 @@
 title: Next-Generation Adaptable Computing for Omics at FCCM 2026
 description: Next-Generation Adaptable Computing for Omics @ FCCM 2026
-baseurl: ""
-url: "https://github.com/Konstantina-Koliogeorgi/omics-fccm2026"
+url: "https://Konstantina-Koliogeorgi.github.io"
+baseurl: "/omics-fccm2026"
 
 # Theme settings
 remote_theme: pages-themes/primer@v0.6.0
