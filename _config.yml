@@ -1,0 +1,23 @@
+title: Next-Generation Adaptable Computing for Omics at FCCM 2026
+description: Next-Generation Adaptable Computing for Omics @ FCCM 2026
+baseurl: ""
+url: "https://github.com/Konstantina-Koliogeorgi/omics-fccm2026"
+
+# Theme settings
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+  - jekyll-remote-theme
+
+# Site settings
+show_downloads: false
+google_analytics:
+
+# Workshop details
+workshop:
+  title: "Next-Generation Adaptable Computing for Omics at FCCM 2026"
+  full_title: "Next-Generation Adaptable Computing for Omics"
+  date: "May 16th, 2026"
+  location: "Atlanta, GA, USA"
+  venue: "Georgia Tech CODA Building, 756 West Peachtree Street, Atlanta, GA 30332"
+  conference: "FCCM 2026"
+  conference_full: "IEEE International Symposium on Field-Programmable Custom Computing Machines"

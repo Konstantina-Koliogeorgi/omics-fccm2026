@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% include nav.html %}
+
+{% include hero.html %}
+
+---
+
+{% include about.html %}
+
+---
+
+{% include agenda.html %}
+
+---
+
+{% include livestream.html %}
+
+---
+
+{% include key-dates.html %}
+
+---
+
+{% include organizers.html %}
+
+---
+
+{% include past-editions.html %}
+
+---
+
+{% include venue.html %}
+
+---
+
+{% include contact.html %}
+
+---
+
+{% include footer.html %}
