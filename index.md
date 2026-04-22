@@ -20,10 +20,6 @@ layout: default
 
 ---
 
-{% include key-dates.html %}
-
----
-
 {% include organizers.html %}
 
 ---
